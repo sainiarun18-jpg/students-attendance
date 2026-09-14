@@ -1,4 +1,3 @@
-
 """
 Student Attendance & WhatsApp Alert System - Single-File Flask App
 --------------------------------------------------------------------
